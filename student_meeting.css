@@ -1,0 +1,30 @@
+/* CSS Document */
+
+.topCell
+{
+	border-bottom:medium solid #000;
+	width:12px;
+	text-align:center;
+}.top_title {
+	text-align: left;
+	font-weight: bold;
+}
+.top_title strong {
+	font-size: xx-large;
+	text-align: center;
+}
+
+.topAttendanceCell
+{
+	width:100px;
+	text-align:center;
+}
+.attendanceCellAbsent
+{
+	background-color:#F00;
+}
+
+.attendanceCellPresent
+{
+	background-color:#0F0;
+}
